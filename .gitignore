@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# IDE files
+.idea
+#Settings.py
+settings.py
+.DS_Store
+*.png
